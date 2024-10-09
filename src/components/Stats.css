@@ -1,0 +1,16 @@
+/* Stats.css */
+
+.stats {
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 48%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .stats h3 {
+    margin-top: 0;
+  }
+  
+  .stats p {
+    margin: 5px 0;
+  }

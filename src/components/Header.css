@@ -1,0 +1,21 @@
+/* Header.css */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .header-button {
+    font-size: 1em;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #4e342e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .header-button:hover {
+    background-color: #6d4c41;
+  }

@@ -1,0 +1,36 @@
+/* GameScene.css */
+
+.game-content {
+    padding: 20px;
+    font-size: 1.2em;
+    min-height: calc(100% - 160px); /* 헤더와 하단 UI를 제외한 높이 */
+    overflow-y: auto;
+  }
+  
+  .game-content p {
+    margin-bottom: 20px;
+  }
+  
+  .game-content ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .game-content li {
+    margin-bottom: 10px;
+  }
+  
+  .game-content button {
+    font-size: 1em;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+    background-color: #6d4c41;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .game-content button:hover {
+    background-color: #8d6e63;
+  }

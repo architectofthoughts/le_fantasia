@@ -1,0 +1,22 @@
+/* Inventory.css */
+
+.inventory {
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 48%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .inventory h3 {
+    margin-top: 0;
+  }
+  
+  .inventory ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .inventory li {
+    margin: 5px 0;
+  }
